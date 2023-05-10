@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/yolov5/data/dataset/images/train/
+val: /content/drive/MyDrive/yolov5/data/dataset/images/val/
+
+nc: 2
+
+names: ["no_mask", "mask"]
